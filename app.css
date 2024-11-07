@@ -1,0 +1,68 @@
+:root{
+	--color-background-default: black!important;
+	--color-text-icon-default: #1a1a1a!important;
+}
+
+::-webkit-scrollbar {
+	background-color: black!important;
+	width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #1a1a1a!important;
+	border-radius: 5px;
+}
+
+.mainContainer input[type="text"], input[type="url"], option, textarea{
+	background-color: #1a1a1a!important;
+}
+
+span, h1, h2, h3, .hs0 .tBJ, .hs0 .gUZ, .swG{
+	color: rgba(255, 255, 255, .75)!important;
+}
+
+.zDA .Rz6{
+	background: black!important;
+	border-radius: 5px;
+}
+
+.zDA .Rz6 .tBJ {
+	color: white!important;
+}
+
+body, .LCN, .jzS, .a3i, .C9q, .SpV, .u97, .DUt, .sLG, .urM, .qiB, .imm{
+	background-color: black!important;  
+}
+
+.Eqh .gn8, .Eqh:hover .KhY{
+	background-color: #1a1a1a!important;  
+}
+
+.USg, .Dl7{
+	background-color: black!important;  
+	border: 1px #1a1a1a solid!important;
+}
+
+.kwA, .xuA .DUt, .ho- .Hsu, .Jea, .Yl- .sLG, .KS5, .Jea .qiB{
+	background-color: transparent!important;
+}
+
+._HI, .bPW, .ta7{
+	background-color: #1a1a1a!important;
+}
+
+div[name="trap-focus"] .ZHw{
+	border: 2px #1a1a1a solid!important;
+}
+
+div[data-test-id="accountSettingsContainer"] .hjj .DUt{
+	background-color: rgba(0, 0, 0, .75)!important;
+}
+
+div[data-test-id="search-filter"]{
+	background-color: transparent!important;
+}
+
+div.T3r.MIw.DUt.QLY.p6V.ojN.Rym.jr-.wMk{
+	background-color: rgba(0, 0, 0, .3)!important;
+}

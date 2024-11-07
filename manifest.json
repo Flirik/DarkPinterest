@@ -1,0 +1,18 @@
+{
+    "author": "Flirik",
+    "manifest_version": 3,
+    "name": "Dark Pinterest",
+    "version": "1.0",
+    "description": "Тёмная тема для pinterest",
+    "icons": {
+	    "128": "128.png"
+    },
+    "content_scripts": [
+	    {
+ 		   "matches": [ "https://*.pinterest.com/*" ],
+	 	   "js": [ "app.js" ],
+		   "css": [ "app.css" ]
+	    }
+    ]
+	
+}
